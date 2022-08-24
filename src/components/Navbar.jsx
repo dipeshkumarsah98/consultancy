@@ -8,7 +8,7 @@ const Navbar = () => {
   fluid={true}
   rounded={true}>
 
-  <Nav.Brand href="/">
+  <Nav.Brand href="#">
         <img
         src={Logo}
         className="mr-3 h-6 sm:h-9"
@@ -23,21 +23,21 @@ const Navbar = () => {
   
   <Nav.Collapse>
     <Nav.Link
-      href="/Navs"
+      href="#"
       active={true}
     >
       Home
     </Nav.Link>
-    <Nav.Link href="/Navs">
+    <Nav.Link href="#">
       About
     </Nav.Link>
-    <Nav.Link href="/Navs">
+    <Nav.Link href="#">
       Services
     </Nav.Link>
-    <Nav.Link href="/Navs" className='text-5xl'>
+    <Nav.Link href="#" className='text-5xl'>
       Pricing
     </Nav.Link>
-    <Nav.Link href="/Navs">
+    <Nav.Link href="#">
       Contact
     </Nav.Link>
   </Nav.Collapse>
