@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/consultancy/static/css/main.5a81e191.css",
+    "main.js": "/consultancy/static/js/main.63722fe4.js",
+    "static/js/787.def2aeea.chunk.js": "/consultancy/static/js/787.def2aeea.chunk.js",
+    "static/media/Marine-Science.jpg": "/consultancy/static/media/Marine-Science.21cfa104462d621c5cb5.jpg",
+    "static/media/Applied-Science.jpg": "/consultancy/static/media/Applied-Science.99aea42f07f5ef50d73a.jpg",
+    "static/media/Science.webp": "/consultancy/static/media/Science.98b5e052bb4fe6a23a0d.webp",
+    "static/media/03.jpg": "/consultancy/static/media/03.aa0b1c0b648c779c0126.jpg",
+    "static/media/01.jpg": "/consultancy/static/media/01.d43e8b5fdabcc01948ff.jpg",
+    "static/media/02.jpg": "/consultancy/static/media/02.967ab9b2e550870a0a9b.jpg",
+    "static/media/Architecture.jpg": "/consultancy/static/media/Architecture.3d0031a040a2de5b2858.jpg",
+    "static/media/CQUniversity_Australia_logo.svg.png": "/consultancy/static/media/CQUniversity_Australia_logo.svg.4978c157b142fab164e4.png",
+    "static/media/sydneymet-logo.png": "/consultancy/static/media/sydneymet-logo.6047aa0fc87d77bd5593.png",
+    "static/media/Biophysics.jpg": "/consultancy/static/media/Biophysics.dbfa5d5ac74a28a8562d.jpg",
+    "static/media/victoria.png": "/consultancy/static/media/victoria.cd6ff86bee4ffdeee19e.png",
+    "static/media/AIHE_logo.png": "/consultancy/static/media/AIHE_logo.012df0e423a9bf9939a5.png",
+    "static/media/uot.png": "/consultancy/static/media/uot.03cc9591e66fac6cbc58.png",
+    "index.html": "/consultancy/index.html",
+    "main.5a81e191.css.map": "/consultancy/static/css/main.5a81e191.css.map",
+    "main.63722fe4.js.map": "/consultancy/static/js/main.63722fe4.js.map",
+    "787.def2aeea.chunk.js.map": "/consultancy/static/js/787.def2aeea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a81e191.css",
+    "static/js/main.63722fe4.js"
+  ]
+}
