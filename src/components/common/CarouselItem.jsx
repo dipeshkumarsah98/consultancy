@@ -13,13 +13,13 @@ export const CarouselItem = () => {
             <div className='space-y-2' > 
                 <BsFillChatLeftQuoteFill className='text-3xl text-orange-500 md:5xl lg:text-5xl' />
                 {/* comment */}
-                <p className='lg:text-xl'>
+                <p className='lg:text-xl font-lato font-medium'>
                 Counselors are very professional and provide accurate information. They help you in every step on the way, from applications to visa interview.NIEC is a great place to start if you have no idea about applying abroad.
                 </p>
                 {/* name */}
-                <p className='font-bold text-lg'>Nagen Kumar Chaudhary</p>
+                <p className='font-bold font-merriweather text-lg'>Nagen Kumar Chaudhary</p>
                 {/* university name */}
-                <p>Cambridge University</p>
+                <p className='font-merriweather'>Cambridge University</p>
             </div>
     </div>
   )

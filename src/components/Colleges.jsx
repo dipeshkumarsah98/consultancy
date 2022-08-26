@@ -18,8 +18,8 @@ export const Colleges = () => {
     ]
   return (
 <div className='px-10 my-20 md:px-32 lg:px-44'>
-    <h1 className='font-mono text-xl mb-2 md:text-3xl lg:text-5xl'>College & Universities</h1>
-    <span className='font-mono text-slate-500 text-center md:text-lg'>We work with some of the best
+    <h1 className='font-open-sans text-5xl mb-2 lg:text-7xl'>College & Universities</h1>
+    <span className='font-lato font-bold text-slate-500 text-lg text-center md:text-2xl'>We work with some of the best
     educational institutions around the 
     </span>
         <College items={universityesList} />

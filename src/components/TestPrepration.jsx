@@ -15,7 +15,7 @@ export const TestPrepration = () => {
   return (
     <>
     <div className='bg-gradient-to-r from-cyan-500 to-blue-500 text-white py-10 px-10 my-10 md:px-32 lg:px-44'>
-      <h1 className='text-2xl md:text-5xl font-mono mb-10'>We Offers</h1>
+      <h1 className='text-5xl md:text-7xl mb-10 font-open-sans'>We offers</h1>
       <div className='grid gap-10 md:grid-cols-2 xl:grid-cols-3'>
       {
         traniningPreprationn.map(item=>(

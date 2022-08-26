@@ -6,7 +6,13 @@ module.exports = {
   
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'open-sans': ["'Open Sans'", 'sans-serif'],
+        'lato': ["'Lato'", 'sans-serif'],
+        'merriweather': ["'Merriweather'", 'serif'],
+      }
+    },
   },
   plugins: [require('flowbite/plugin')],
 }

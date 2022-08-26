@@ -1,25 +1,22 @@
-import {Testimonial} from './components/Testimonial'
-import { Courses } from "./components/Courses";
-import { Destination } from './components/Destination';
-import { Services } from './components/Services';
-import { TestPrepration } from './components/TestPrepration';
-import { Banner } from './components/Banner';
-import { Footer } from './components/Footer';
-import { Colleges } from './components/Colleges';
-import Navbar from './components/Navbar';
-
+import {BrowserRouter, Routes, Route} from 'react-router-dom'
+import { Footer } from "./components/Footer";
+import { Try } from "./components/Try";
+import { AboutPage } from "./Pages/_about";
+import { ContactPage } from "./Pages/_contact";
+import { HomePage } from "./Pages/_home";
 
 function App() {
   return (
     <>
-    <Navbar />
-    <Banner />
-    <TestPrepration />
-    <Services />
-    <Destination />
-    <Testimonial />
-    <Courses />
-    <Colleges />
+    <Try />
+    <BrowserRouter>
+      <Routes>
+        <Route path="about" element={<AboutPage />} />
+        <Route path="contact" element={<ContactPage />} />
+        <Route path="/" element={<HomePage />} />
+      
+      </Routes>
+    </BrowserRouter>
     <Footer />
     </>
     

@@ -17,7 +17,7 @@ export const Courses = () => {
     ]
   return (
     <div className='px-10 my-10 md:px-32 lg:px-44 bg-gradient-to-r from-cyan-500 to-blue-500 text-white py-10 md:py-16'>
-        <h1 className=' font-mono text-3xl mb-5 font-bold'>Popular Courses for Students</h1>
+        <h1 className=' font-open-sans text-5xl md:text-7xl mb-5'>Popular Courses for Students</h1>
         {/* course list */}
         <div className='grid gap-6 md:grid-cols-2 lg:grid-cols-3'>
            
