@@ -14,6 +14,7 @@ export const HomePage = () => {
     <Helmet>
       <title>DGN | Home</title>
     </Helmet>
+
     <Banner />
     <TestPrepration />
     <Services />
