@@ -14,7 +14,7 @@ export const TestPrepration = () => {
 
   return (
     <>
-    <div className='bg-gradient-to-r from-cyan-500 to-blue-500 text-white py-10 px-10 my-10 md:px-32 lg:px-44'>
+    <div className='bg-gradient-to-r from-cyan-500 to-blue-500 text-white py-10 px-10 my-10 md:px-32 lg:px-44' id='training'>
       <h1 className='text-5xl md:text-7xl mb-10 font-open-sans'>We offers</h1>
       <div className='grid gap-10 md:grid-cols-2 xl:grid-cols-3'>
       {

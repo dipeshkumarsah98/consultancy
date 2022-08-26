@@ -8,16 +8,15 @@ import { HomePage } from "./Pages/_home";
 function App() {
   return (
     <>
-    <Try />
-    <BrowserRouter basename='/'>
+    <BrowserRouter>
+      <Try />
       <Routes>
         <Route path="about" element={<AboutPage />} />
         <Route path="contact" element={<ContactPage />} />
         <Route path="*" element={<HomePage />} />
-
       </Routes>
+      <Footer />
     </BrowserRouter>
-    <Footer />
     </>
     
   );

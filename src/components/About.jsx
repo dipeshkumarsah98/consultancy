@@ -3,7 +3,7 @@ import Pic from '../img/about.jpg';
 export const About = () => {
   return (
     <>
-    <h1 className='font-open-sans text-center mt-10 text-5xl bg-gradient-to-r from-cyan-500 to-blue-500 py-7 md:py-10 text-white md:text-7xl'>About Us</h1>
+    <h1 className='font-open-sans text-center mt-16 text-5xl bg-gradient-to-r from-cyan-500 to-blue-500 py-7 md:py-10 text-white md:text-7xl'>About Us</h1>
     <div className='px-10 my-10 md:px-32 lg:px-44 flex flex-col-reverse md:flex-row gap-10 lg:items-center '>
       <div className='space-y-4'>
 

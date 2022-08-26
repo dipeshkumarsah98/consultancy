@@ -1,4 +1,5 @@
 import React from 'react'
+import { Helmet } from 'react-helmet';
 import {Testimonial} from '../components/Testimonial'
 import { Courses } from "../components/Courses";
 import { Destination } from '../components/Destination';
@@ -10,6 +11,9 @@ import { Colleges } from '../components/Colleges';
 export const HomePage = () => {
   return (
     <>
+    <Helmet>
+      <title>DGN | Home</title>
+    </Helmet>
     <Banner />
     <TestPrepration />
     <Services />

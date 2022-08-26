@@ -76,7 +76,7 @@ export const Footer = () => {
     <div className="w-full bg-gray-700 py-6 px-4 sm:flex sm:items-center sm:justify-between">
       <Foot.Copyright
         href="#"
-        by="Flowbite™"
+        by="Digital Guide Nepal"
         year={2022}
       />
       <div className="mt-4 flex space-x-6 sm:mt-0 sm:justify-center">
