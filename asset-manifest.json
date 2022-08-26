@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/consultancy/static/css/main.6b3df848.css",
-    "main.js": "/consultancy/static/js/main.1190c1a4.js",
+    "main.css": "/consultancy/static/css/main.05476777.css",
+    "main.js": "/consultancy/static/js/main.56fe9edd.js",
     "static/js/787.def2aeea.chunk.js": "/consultancy/static/js/787.def2aeea.chunk.js",
     "static/media/aus.jpg": "/consultancy/static/media/aus.96b36aa51fece354c194.jpg",
     "static/media/Marine-Science.jpg": "/consultancy/static/media/Marine-Science.21cfa104462d621c5cb5.jpg",
@@ -21,12 +21,12 @@
     "static/media/AIHE_logo.png": "/consultancy/static/media/AIHE_logo.012df0e423a9bf9939a5.png",
     "static/media/uot.png": "/consultancy/static/media/uot.03cc9591e66fac6cbc58.png",
     "index.html": "/consultancy/index.html",
-    "main.6b3df848.css.map": "/consultancy/static/css/main.6b3df848.css.map",
-    "main.1190c1a4.js.map": "/consultancy/static/js/main.1190c1a4.js.map",
+    "main.05476777.css.map": "/consultancy/static/css/main.05476777.css.map",
+    "main.56fe9edd.js.map": "/consultancy/static/js/main.56fe9edd.js.map",
     "787.def2aeea.chunk.js.map": "/consultancy/static/js/787.def2aeea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b3df848.css",
-    "static/js/main.1190c1a4.js"
+    "static/css/main.05476777.css",
+    "static/js/main.56fe9edd.js"
   ]
 }
