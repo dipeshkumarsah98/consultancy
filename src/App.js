@@ -9,12 +9,12 @@ function App() {
   return (
     <>
     <Try />
-    <BrowserRouter>
+    <BrowserRouter basename='/'>
       <Routes>
         <Route path="about" element={<AboutPage />} />
         <Route path="contact" element={<ContactPage />} />
-        <Route path="/" element={<HomePage />} />
-      
+        <Route path="*" element={<HomePage />} />
+
       </Routes>
     </BrowserRouter>
     <Footer />
